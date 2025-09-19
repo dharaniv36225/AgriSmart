@@ -6,11 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
+    "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -f"
 },
+
 
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
@@ -37,5 +38,6 @@
   },
   "homepage": "https://dharaniv36225.github.io/AgriSmart"
 }
+
 
 
