@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -f"
-}
+},
 
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
@@ -37,4 +37,5 @@
   },
   "homepage": "https://dharaniv36225.github.io/AgriSmart"
 }
+
 
